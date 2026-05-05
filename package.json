@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "website-scraper": "^6.0.0"
+  },
+  "dependencies": {
+    "node-appwrite": "^24.0.0"
   }
 }
